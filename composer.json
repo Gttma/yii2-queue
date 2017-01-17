@@ -1,0 +1,30 @@
+{
+  "name": "gittmy/yii2-queue",
+  "description": "yii2 ап╤с",
+  "keywords": [
+    "yii2",
+    "queue"
+  ],
+  "homepage": "https://github.com/gittmy/yii2-queue",
+  "type": "yii2-extension",
+  "license": "Apache-2.0",
+  "support": {
+    "source": "https://github.com/gittmy/yii2-queue"
+  },
+  "authors": [
+    {
+      "name": "gittmy",
+      "email": "4006690@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*",
+  },
+  "autoload": {
+    "psr-4": {
+      "\\gittmy\\queue\\": ""  
+    }
+  },
+}
