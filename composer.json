@@ -18,6 +18,7 @@
     }
   ],
   "require": {
+    "jeremeamia/superclosure": "^2.0",
     "yiisoft/yii2-redis": "*",
     "yiisoft/yii2": "*"
   },
