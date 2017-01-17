@@ -17,7 +17,6 @@
       "email": "4006690@qq.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "yiisoft/yii2": "*"
   },
